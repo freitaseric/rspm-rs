@@ -7,7 +7,8 @@
 
 
 ![GitHub License](https://img.shields.io/github/license/freitaseric/rspm-rs)
-![GitHub deployments](https://img.shields.io/github/deployments/freitaseric/rspm-rs/github-pages?label=github-pages)
+<!-- ![GitHub deployments](https://img.shields.io/github/deployments/freitaseric/rspm-rs/github-pages?label=github-pages) -->
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/freitaseric/rspm-rs/test.yml?label=test)
 
 </div>
 
