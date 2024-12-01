@@ -7,8 +7,8 @@
 
 
 ![GitHub License](https://img.shields.io/github/license/freitaseric/rspm-rs)
-<!-- ![GitHub deployments](https://img.shields.io/github/deployments/freitaseric/rspm-rs/github-pages?label=github-pages) -->
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/freitaseric/rspm-rs/test.yml?label=test)
+<!-- ![GitHub deployments](https://img.shields.io/github/deployments/freitaseric/rspm-rs/github-pages?label=github-pages) -->
 
 </div>
 
@@ -72,11 +72,7 @@ $ cargo install --path .
 
 ## Contributing
 
-1. Fork it (<https://github.com/freitaseric/rspm-rs/fork>)
-2. Create your feature branch (`git checkout -b feature/my-awesome-feature`)
-3. Commit your changes (`git commit -am 'Add awesome feature'`)
-4. Push to the branch (`git push origin feature/my-awesome-feature`)
-5. Create a new [Pull Request](https://github.com/freitaseric/rspm-rs/pulls)
+Use the guide located at [CONTRIBUTING.md](./.github/CONTRIBUTING.md) and follow the [code of conduct](./.github/CODE_OF_CONDUCT.md).
 
 ## Contributors ![GitHub contributors](https://img.shields.io/github/contributors/freitaseric/rspm-rs)
 
