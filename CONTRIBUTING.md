@@ -135,6 +135,7 @@ Enhancement suggestions are tracked as [GitHub issues](https://github.com/freita
 <!-- You might want to create an issue template for enhancement suggestions that can be used as a guide and that defines the structure of the information to be included. If you do so, reference it here in the description. -->
 
 ### Your First Code Contribution
+
 <!-- omit in toc -->
 #### Prerequisites
 
@@ -167,9 +168,35 @@ $ git push origin feature/my-awesome-feature
 ```
 
 ### Improving The Documentation
-<!-- TODO
-Updating, improving and correcting the documentation
--->
+
+<!-- omit in toc -->
+#### Prerequisites
+
+- The javascript runtime [Node.js](https://nodejs.org) version 22.
+- A code editor or IDE, we strongly recommend [VS Code](https://code.visualstudio.com).
+- Prior knowledge in website development and Markdown writting.
+
+<!-- omit in toc -->
+#### Code Editor/IDE Setup
+
+- On VS Code, you just need to install the docs/ directory recommended extensions.
+
+<!-- omit in toc -->
+#### You are ready to code
+
+```shell
+$ git clone https://github.com/freitaseric/rspm-rs.git
+$ cd rspm-rs/docs
+
+$ git checkout -b docs/my-awesome-contribution
+
+# Open with your preferred code editor or IDE.
+# Add your contribution.
+
+$ git add .
+$ git commit -m "Add an awesome contribution"
+$ git push origin docs/my-awesome-contribution
+```
 
 ## Styleguides
 
