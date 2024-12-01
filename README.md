@@ -72,7 +72,7 @@ $ cargo install --path .
 
 ## Contributing
 
-Use the guide located at [CONTRIBUTING.md](./.github/CONTRIBUTING.md) and follow the [code of conduct](./.github/CODE_OF_CONDUCT.md).
+Use the guide located at [CONTRIBUTING.md](./CONTRIBUTING.md) and follow the [code of conduct](./.github/CODE_OF_CONDUCT.md).
 
 ## Contributors ![GitHub contributors](https://img.shields.io/github/contributors/freitaseric/rspm-rs)
 
