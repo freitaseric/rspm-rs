@@ -19,16 +19,13 @@ export default defineConfig({
 				github: 'https://github.com/freitaseric/rspm-rs',
 			},
 			sidebar: [
-				// {
-				// 	label: 'Guides',
-				// 	items: [
-				// 		{ label: 'Example Guide', slug: 'guides/example' },
-				// 	],
-				// },
-				// {
-				// 	label: 'Reference',
-				// 	autogenerate: { directory: 'reference' },
-				// },
+				{
+					label: "Start here",
+					translations: {
+						"pt-BR": "Começe aqui",
+					},
+					autogenerate: { directory: 'start' },
+				},
 			],
 		}),
 	],
